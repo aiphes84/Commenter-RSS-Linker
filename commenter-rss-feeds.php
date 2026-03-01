@@ -3,7 +3,7 @@
 Plugin Name: Commenter RSS Linker
 Description: 1.0 1.读取最新10位评论者（排除博主）；2.抓取其网站RSS前2篇；3.关联其在本站评论的文章链接；4.极致紧凑样式；5.自动定时刷新+评论后即时刷新；6.异步抓取。
 Version: 1.0
-Author: <a href="fxpai.com" target="_blank">fxpai.com</a> | <a href="https://fxpai.com/article/wordpress-commenter-rss-linker" target="_blank">查看详情</a>
+Author: <a href="https://fxpai.com" target="_blank">fxpai.com</a> | <a href="https://fxpai.com/article/wordpress-commenter-rss-linker" target="_blank">查看详情</a>
 */
 
 if (!defined('ABSPATH')) exit;
@@ -184,3 +184,4 @@ function crf_v23_page() {
     <?php
 
 }
+
